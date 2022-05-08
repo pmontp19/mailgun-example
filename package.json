@@ -1,0 +1,19 @@
+{
+  "name": "mailgun-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mailgun.js": "^6.0.0",
+    "path": "^0.12.7",
+    "pug": "^3.0.2"
+  }
+}

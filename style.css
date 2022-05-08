@@ -1,0 +1,56 @@
+p {
+    color: black;
+}
+
+h3 {
+    font-weight: 300;
+    line-height: 1.1;
+    font-size: 17px;
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: #777;
+}
+
+.ii a[href] {
+    color: #15c;
+}
+
+.link-account {
+    color: #08c;
+    text-decoration: none;
+}
+
+.logo {
+    border:0;
+    height:auto;
+    line-height:100%;
+    outline:none;
+    text-decoration:none;
+    margin-bottom: 1em;
+}
+
+.reset {
+    border-radius: 3px;
+    border: 1px solid #FF512E;
+    background-color: #FF512E;
+    color: #fff!important;
+    display: inline-block;
+    font-size: 14px;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+
+.reset:active {
+    color: #dadce0!important;
+    text-decoration: none!important;
+}
+
+.icon {
+    border: 0;
+    height: auto;
+    line-height: 100%;
+    outline: none;
+    text-decoration: none;
+    margin-right: 0.2em;
+}
